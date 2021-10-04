@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cleverson\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cleverson\\.nuget\\packages"
+    ]
+  }
+}
